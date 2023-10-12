@@ -3,7 +3,7 @@
 #### 1 - Two Pointers
 #### 2 - Fast and Slow Pointers
 #### 3 - Sliding Window
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Tags** |
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |   643   |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)| [Java](./java/643.java)  |      Easy      |          |
 |   209   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [Java](./java/209.java)  |      Medium      |          |
