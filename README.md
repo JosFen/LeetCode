@@ -1,7 +1,13 @@
 # LeetCode
 
 #### 1 - Two Pointers
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
 #### 2 - Fast and Slow Pointers
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
 #### 3 - Sliding Window
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
@@ -20,6 +26,22 @@
 |   76   |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Java](./java/76.java)  |  Hard      |          | 
 |   30   |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./java/30.java)  |  Hard      |      ***    | 
 #### 5 - In-place Reversal of a Linked List
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
 #### 6 - Arrays
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
 #### 7 - Binary Search
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|   704   |[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./java/704.java)  |      Easy      |          |
+|   744   |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./java/744.java)  |      Easy      |          |
+|   378   |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [Java](./java/378.java)  |      Medium      |          |
+|   852   |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Java](./java/852.java)  |      Medium      |          |
 #### 8 - Stack 
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|   20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./java/20.java)  |      Easy      |          |
+|   155   |[Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./java/155.java)  |      Medium      |          |
