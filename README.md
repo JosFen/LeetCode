@@ -5,7 +5,7 @@
 #### 3 - Sliding Window
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Tags** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|   643   |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/submissions/1001211483/)| [Java](./java/643.java)  |      Easy      |          |
+|   643   |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)| [Java](./java/643.java)  |      Easy      |          |
 |   209   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [Java](./java/209.java)  |      Medium      |          |
 |   904   |[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| [Java](./java/904.java)  |      Medium      |          |
 |   567   |[Permutation in String](https://leetcode.com/problems/permutation-in-string/)| [Java](./java/567.java)  |      Medium      |          |
