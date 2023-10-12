@@ -7,3 +7,4 @@
 #### 5 - In-place Reversal of a Linked List
 #### 6 - Arrays
 #### 7 - Binary Search
+#### 8 - Stack 
