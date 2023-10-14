@@ -3,7 +3,18 @@
 #### 1 - Two Pointers
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+|   21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./java/21.java)  |      Easy      |          |
+|   1   |[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./java/1.java)  |      Easy      |          |
+|   977   |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./java/977.java)  |      Easy      |          |
+|   283   |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./java/283.java)  |      Easy      |          |
+|   392   |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Java](./java/392.java)  |      Easy      |          |
+|   287   |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./java/287.java)  |      Medium      |          |
+|   15   |[3Sum](https://leetcode.com/problems/3sum/)| [Java](./java/15.java)  |      Medium      |          |
+|   16   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Java](./java/16.java)  |      Medium      |          |
+|   713   |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)| [Java](./java/713.java)  |      Medium      |          |
+|   75   |[Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./java/75.java)  |      Medium      |          |
+|   11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./java/11.java)  |      Medium      |          |
+|   42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java](./java/42.java)  |      Hard      |          |
 #### 2 - Fast and Slow Pointers
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
