@@ -15,10 +15,21 @@
 |   75   |[Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./java/75.java)  |      Medium      |          |
 |   11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./java/11.java)  |      Medium      |          |
 |   42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java](./java/42.java)  |      Hard      |          |
+
 #### 2 - Fast and Slow Pointers
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |   141   |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./java/141.java)  |      Easy      |          |
+|   876   |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [Java](./java/876.java)  |      Easy      |          |
+|   234   |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Java](./java/234.java)  |      Easy      |          |
+|   203   |[Remove Linked List Elements](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](./java/203.java)  |      Easy      |          |
+|   83   |[Remove Duplicates from Sorted List](https://leetcode.com/problems/linked-list-cycle/)| [Java](./java/83.java)  |      Easy      |          |
+|   142   |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./java/142.java)  |      Medium      |          |
+|   2   |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./java/2.java)  |      Medium      |          |
+|   19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./java/19.java)  |      Medium      |          |
+|   148   |[Sort List](https://leetcode.com/problems/sort-list/)| [Java](./java/148.java)  |      Medium      |          |
+|   143   |[Reorder List](https://leetcode.com/problems/reorder-list/)| [Java](./java/143.java)  |      Medium      |          |
+
 #### 3 - Sliding Window
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
@@ -36,14 +47,17 @@
 |   828   |[Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)| [Java](./java/828.java)  |  Hard      |          | 
 |   76   |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Java](./java/76.java)  |  Hard      |          | 
 |   30   |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./java/30.java)  |  Hard      |      ***    | 
+
 #### 5 - In-place Reversal of a Linked List
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+
 #### 6 - Arrays
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+
 #### 7 - Binary Search
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
@@ -51,6 +65,7 @@
 |   744   |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./java/744.java)  |      Easy      |          |
 |   378   |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [Java](./java/378.java)  |      Medium      |          |
 |   852   |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Java](./java/852.java)  |      Medium      |          |
+
 #### 8 - Stack 
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
