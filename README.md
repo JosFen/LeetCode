@@ -56,3 +56,6 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |   20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./java/20.java)  |      Easy      |          |
 |   155   |[Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./java/155.java)  |      Medium      |          |
+|   150   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./java/150.java)  |      Medium      |          |
+|   22   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](./java/22.java)  |      Medium      |          |
+|   739   |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./java/739.java)  |      Medium      |          |
