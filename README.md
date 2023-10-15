@@ -18,7 +18,7 @@
 #### 2 - Fast and Slow Pointers
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+|   141   |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./java/141.java)  |      Easy      |          |
 #### 3 - Sliding Window
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
