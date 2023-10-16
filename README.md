@@ -75,4 +75,4 @@
 |   22   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](./java/22.java)  |      Medium      |          |
 |   739   |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./java/739.java)  |      Medium      |          |
 |   853   |[Car Fleet](https://leetcode.com/problems/car-fleet/)| [Java](./java/853.java)  |      Medium      |     Array     |
-|   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |          |
+|   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |      **    |
