@@ -83,11 +83,15 @@
 #### 7 - Two Heaps
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|      |[]()| [Java](./java/.java)  |      Easy      |          |   *Hash Table , Sorting*       |
 
 
 #### 8 - K-way Merge
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./java/88.java)  |      Easy      |          |   *Array, Two Pointers , Sorting*       |
+
 
 #### 9 - Top K Elements
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
@@ -158,7 +162,7 @@
 #### 20 - Tree Depth First Search (DFS)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
+|   111   |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Java](./java/111.java)  |      Easy      |          |   *Tree , DFS , BFS , Binary Tree*  |
 
 #### 21 - Tree Breath First Search (BFS)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
