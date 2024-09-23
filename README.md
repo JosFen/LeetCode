@@ -4,7 +4,8 @@
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   217   |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [Java](./java/217.java)  |      Easy      |          |   *Hash Table , Sliding Window*       |
-|   219   |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./java/219.java)  |      Easy      |          |   *Hash Table , Sorting*       |
+|   219   |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Java](./java/219.java)  |      Easy      |          |   *Hash Table , String, Sorting*       |
+|   242   |[CValid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Java](./java/242.java)  |      Easy      |          |   *Hash Table , Sorting*       |
 |   268   |[Missing Number](https://leetcode.com/problems/missing-number/)| [Java](./java/268.java)  |      Easy      |          |   *Hash Table , Math ,Binary Search , Bit Manipulation , Sorting*       |
 |   448   |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [Java](./java/448.java)  |      Easy      |          |   *Hash Table*       |
 |   136   |[Single Number](https://leetcode.com/problems/single-number/)| [Java](./java/136.java)  |      Easy      |          |  *Bit Manipulation*       |
