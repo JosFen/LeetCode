@@ -80,7 +80,7 @@
 #### 6 - In-place Reversal of a Linked List
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+|   206   |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](./java/206.java)  |      Easy      |     *Linked-List, Recursion*       |
 
 #### 7 - Two Heaps
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
