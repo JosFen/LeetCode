@@ -81,6 +81,7 @@
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |   206   |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](./java/206.java)  |      Easy      |     *Linked-List, Recursion*       |
+|   92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Java](./java/92.java)  |      Medium      |     *Linked-List, Recursion*       |
 
 #### 7 - Two Heaps
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
