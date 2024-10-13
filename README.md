@@ -29,6 +29,7 @@
 |   977   |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./java/977.java)  |      Easy      |          |
 |   283   |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./java/283.java)  |      Easy      |          |
 |   392   |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Java](./java/392.java)  |      Easy      |          |
+|   125   |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./java/125.java)  |      Easy      |          |
 |   287   |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./java/287.java)  |      Medium      |          |
 |   15   |[3Sum](https://leetcode.com/problems/3sum/)| [Java](./java/15.java)  |      Medium      |          |
 |   16   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Java](./java/16.java)  |      Medium      |          |
