@@ -38,9 +38,9 @@ class Solution {
             }
         }
 
-//         return stack.empty();
-//     }
-// }
+        return stack.empty();
+    }
+}
 
 
 // 1st Version: using Stack
