@@ -43,8 +43,8 @@
 |   141   |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./java/141.java)  |      Easy      |          |
 |   876   |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [Java](./java/876.java)  |      Easy      |          |
 |   234   |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Java](./java/234.java)  |      Easy      |          |
-|   203   |[Remove Linked List Elements](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](./java/203.java)  |      Easy      |          |
-|   83   |[Remove Duplicates from Sorted List](https://leetcode.com/problems/linked-list-cycle/)| [Java](./java/83.java)  |      Easy      |          |
+|   203   |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [Java](./java/203.java)  |      Easy      |          |
+|   83   |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Java](./java/83.java)  |      Easy      |          |
 |   142   |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./java/142.java)  |      Medium      |          |
 |   2   |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./java/2.java)  |      Medium      |          |
 |   19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./java/19.java)  |      Medium      |          |
