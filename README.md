@@ -72,6 +72,7 @@
 |   828   |[Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)| [Java](./java/828.java)  |  Hard      |          | 
 |   76   |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Java](./java/76.java)  |  Hard      |          | 
 |   30   |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./java/30.java)  |  Hard      |      ***    | 
+|   644   |[Maximum Average Subarray II](./java/644.java)| [Java](./java/644.java)  |  Hard      |      ***    | 
 
 
 #### 5 - Merge Intervals
