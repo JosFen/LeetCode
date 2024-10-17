@@ -160,6 +160,7 @@
 |   853   |[Car Fleet](https://leetcode.com/problems/car-fleet/)| [Java](./java/853.java)  |      Medium      |     Array     |          |
 |   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |      **    |          |
 |   387   |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Java](./java/387.java)  |      Easy      |          |  *Queue* |
+|   933   |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./java/933.java)  |      Easy      |          |  *Queue* |
 
 
 #### 19 - Graphs
