@@ -11,6 +11,7 @@
 |   136   |[Single Number](https://leetcode.com/problems/single-number/)| [Java](./java/136.java)  |      Easy      |          |  *Bit Manipulation*       |
 |   2022   |[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)| [Java](./java/2022.java)  |      Easy      |          |  *Matrix* , *Simulation*       |
 |   283   |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [Java](./java/283.java)  |      Easy      |          |  *Two Pointers*     |
+|   2073  |[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)| [Java](./java/2073.java)  |      Easy      |          |  *Array, Queue, Simulation*     |
 |   238   |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Java](./java/238.java)  |      Medium      |          |  *Prefix Sum*     |    Medium      |          |  *Prefix Sum*     |
 |   287   |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./java/287.java)  |      Medium      |          |  *Two Pointers , Binary Search , Bit Manipulation*    |
 |   442   |[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| [Java](./java/442.java)  |      Medium      |          |  *Hash Table*      |
