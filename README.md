@@ -1,5 +1,11 @@
 # LeetCode
 
+#### 0 - Recursion
+|**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   231   |[ Power of Two]([https://leetcode.com/problems/contains-duplicate](https://leetcode.com/problems/power-of-two/)/)| [Java](./java/231.java)  |      Easy      |          |   *Recursion, bit operation*       |
+
+
 #### 1 - Arrays
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
