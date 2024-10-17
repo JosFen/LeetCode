@@ -4,7 +4,7 @@
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   231   |[ Power of Two](https://leetcode.com/problems/contains-duplicate](https://leetcode.com/problems/power-of-two/ )| [Java](./java/231.java)  |      Easy      |          |   *Recursion, bit operation*       |
-|   326   |[ Power of Two](https://leetcode.com/problems/power-of-three/)| [Java](./java/326.java)  |      Easy      |          |   *Recursion, iteration*       |
+|   326   |[ Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./java/326.java)  |      Easy      |          |   *Recursion, iteration*       |
 
 
 #### 1 - Arrays
