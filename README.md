@@ -3,10 +3,11 @@
 #### 0 - Recursion
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   231   |[ Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./java/231.java)  |    Easy      |        |   *Recursion, bit operation*    |
-|   326   |[ Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./java/326.java)  |    Easy   |      |   *Recursion, iteration*     |
-|   342   |[ Power of Four](https://leetcode.com/problems/power-of-four/)| [Java](./java/342.java)  |    Easy   |     |   *Recursion, iteration, bit operation*  |
-|   509   |[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Java](./java/509.java)  |   Easy   |     |   *Recursion, iteration, DP*  |
+|   231   |[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](./java/231.java)  |    Easy      |        |   *Recursion, bit operation*    |
+|   326   |[Power of Three](https://leetcode.com/problems/power-of-three/)| [Java](./java/326.java)  |    Easy   |      |   *Recursion, iteration*     |
+|   342   |[Power of Four](https://leetcode.com/problems/power-of-four/)| [Java](./java/342.java)  |    Easy   |     |   *Recursion, iteration, bit operation*  |
+|   509   |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Java](./java/509.java)  |   Easy   |     |   *Recursion, iteration, DP*  |
+|   3304   |[Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| [Java](./java/3304.java)  |   Easy   |     |   *Recursion, iteration, bit operation*  |
 
 
 
