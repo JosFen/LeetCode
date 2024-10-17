@@ -149,7 +149,7 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 18 - Stack 
+#### 18 - Stack & Queue
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./java/20.java)  |      Easy      |          |          |
@@ -159,6 +159,7 @@
 |   739   |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./java/739.java)  |      Medium      |          |
 |   853   |[Car Fleet](https://leetcode.com/problems/car-fleet/)| [Java](./java/853.java)  |      Medium      |     Array     |          |
 |   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |      **    |          |
+|   387   |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Java](./java/387.java)  |      Easy      |          |          |
 
 
 #### 19 - Graphs
