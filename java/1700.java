@@ -1,3 +1,4 @@
+// O(n+m) time, O(1) space
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
         int circleStudents = 0, squareStudents = 0;
@@ -18,3 +19,5 @@ class Solution {
         return 0;
     }
 }
+
+// Brute Force using queue&stack, O(n*m) time complexity, O(n+m) space
