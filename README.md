@@ -32,7 +32,8 @@
 |   392   |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Java](./java/392.java)  |      Easy      |          |
 |   125   |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Java](./java/125.java)  |      Easy      |          |
 |   680   |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)| [Java](./java/680.java)  |      Easy      |          |
-|   26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./java/26.java)  |      Easy      |          |
+|   26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./java/26.java)  |  Easy  |          |
+|   27   |[Remove Element](https://leetcode.com/problems/remove-element/description/)| [Java](./java/27.java)  |  Easy  |         |
 |   287   |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./java/287.java)  |      Medium      |          |
 |   15   |[3Sum](https://leetcode.com/problems/3sum/)| [Java](./java/15.java)  |      Medium      |          |
 |   16   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Java](./java/16.java)  |      Medium      |          |
