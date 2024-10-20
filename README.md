@@ -8,6 +8,8 @@
 |   342   |[Power of Four](https://leetcode.com/problems/power-of-four/)| [Java](./java/342.java)  |    Easy   |     |   *Recursion, iteration, bit operation*  |
 |   509   |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Java](./java/509.java)  |   Easy   |     |   *Recursion, iteration, DP*  |
 |   3304   |[Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| [Java](./java/3304.java)  |   Easy   |     |   *Recursion, iteration, bit operation*  |
+|   24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./java/24.java)  |   Medium   |     |   *Recursion, Linked List*  |
+
 
 
 
