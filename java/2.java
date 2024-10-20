@@ -38,3 +38,35 @@ class Solution {
         return sentinel.next;
     } 
 }
+
+// Recursion:
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+
+// Recursion: 
+class Solution {
+    private ListNode addTwoNumbersHelper(ListNode l1, ListNode l2, int sum) {
+        if (l1 == null && l2 == null && sum == 0) return null;
+
+        int val1 = (l1 != null) ? l1.val : 0;
+        int val2 = (l2 != null) ? l2.val : 0;
+        sum += val1 + val2;
+
+        ListNode node = new ListNode(sum % 10);
+        sum /= 10;
+        node.next = addTwoNumbersHelper((l1!=null)?l1.next:null, (l2!=null)?l2.next:null, sum);
+        return node;
+    }
+
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        return addTwoNumbersHelper(l1, l2, 0);
+    }
+}
