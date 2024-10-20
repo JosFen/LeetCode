@@ -10,6 +10,7 @@
 |   3304   |[Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| [Java](./java/3304.java)  |   Easy   |     |   *Recursion, iteration, bit operation*  |
 |   24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./java/24.java)  |   Medium   |     |   *Recursion, Linked List*  |
 |   50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Java](./java/50.java)  |   Medium   |     |   *Recursion, Bit Operation*  |
+|   241   |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [Java](./java/241.java)  |   Medium   |     |   *Recursion, Memorization, DP, Combinatorics*  |
 
 
 
