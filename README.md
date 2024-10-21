@@ -11,6 +11,7 @@
 |   24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./java/24.java)  |   Medium   |     |   *Recursion, Linked List*  |
 |   50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Java](./java/50.java)  |   Medium   |     |   *Recursion, Bit Operation*  |
 |   241   |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [Java](./java/241.java)  |   Medium   |     |   *Recursion, Memorization, DP, Combinatorics*  |
+|   390   |[Elimination Game](https://leetcode.com/problems/elimination-game/)| [Java](./java/390.java)  |   Medium   |   *  |   *Recursion, Math*  |
 
 
 
