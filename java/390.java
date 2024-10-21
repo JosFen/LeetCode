@@ -1,4 +1,5 @@
 /*
+Reference: https://dreamume.medium.com/leetcode-390-elimination-game-99458b053fb
 First, we can observe that the deleting operation is symmetric, every time we delete half numbers.
 Now we define function f(n, left) as the number that n numbers, we first delete from left, then delete from right, …, finally return the last number. 
 So we can get f(n, right), the only different is first delete from right, the return last number should be n+1-f(n, left). 
