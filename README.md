@@ -12,6 +12,7 @@
 |   50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Java](./java/50.java)  |   Medium   |     |   *Recursion, Bit Operation*  |
 |   241   |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [Java](./java/241.java)  |   Medium   |     |   *Recursion, Memorization, DP, Combinatorics*  |
 |   390   |[Elimination Game](https://leetcode.com/problems/elimination-game/)| [Java](./java/390.java)  |   Medium   |   *  |   *Recursion, Math*  |
+|   3211  |[Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)| [Java](./java/3211.java)  |   Medium   |   *  |   *Recursion, Backtracking*  |
 
 
 
