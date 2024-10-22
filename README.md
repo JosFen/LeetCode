@@ -13,6 +13,7 @@
 |   241   |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [Java](./java/241.java)  |   Medium   |     |   *Recursion, Memorization, DP, Combinatorics*  |
 |   390   |[Elimination Game](https://leetcode.com/problems/elimination-game/)| [Java](./java/390.java)  |   Medium   |   *  |   *Recursion, Math*  |
 |   3211  |[Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)| [Java](./java/3211.java)  |   Medium   |   *  |   *Recursion, Backtracking*  |
+|   2550  |[Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/)| [Java](./java/2550.java)  |   Medium   |   *  |   *Recursion, Math, Competitive programming, Prime Number*  |
 
 
 
