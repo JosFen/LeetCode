@@ -250,3 +250,4 @@
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   169   |[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./java/169.java)  |      Easy      |          |   *Sorting, Boyer–Moore majority vote algorithm*       |
+|   1636  |[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)| [Java](./java/1636.java) |      Easy      |    *    |   *Sorting, Heap Sort, Aggregate Operations*       |
