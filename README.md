@@ -244,3 +244,9 @@
 #### 29 - Design
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+
+
+#### 30 - Stack & Queue
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   169   |[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./java/169.java)  |      Easy      |          |   *Sorting, Boyer–Moore majority vote algorithm*       |
