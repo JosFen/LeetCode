@@ -246,7 +246,7 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 30 - Stack & Queue
+#### 30 - Sorting
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   169   |[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./java/169.java)  |      Easy      |          |   *Sorting, Boyer–Moore majority vote algorithm*       |
