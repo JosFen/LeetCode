@@ -236,18 +236,14 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 28 - Other Sort
+#### 28 - Design
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 29 - Design
-|**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 30 - Sorting
+#### 29 - Sorting
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   169   |[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./java/169.java)  |      Easy      |          |   *Sorting, Boyer–Moore majority vote algorithm*       |
 |   1636  |[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)| [Java](./java/1636.java) |      Easy      |    *    |   *Sorting, Heap Sort, Aggregate Operations*       |
+|   912  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)| [Java](./java/912.java) |      Medium      |    **    |   *Sorting, Heap Sort, Merge Sort, Quick Sort, Bucket Sort, Insertion Sort*       |
