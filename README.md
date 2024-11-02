@@ -129,13 +129,13 @@
 
 
 #### 10 - (Modified) Binary Search
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|   704   |[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./java/704.java)  |      Easy      |          |
-|   744   |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./java/744.java)  |      Easy      |          |
-|   69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./java/69.java)  |      Easy      |     *Math*     |
-|   378   |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [Java](./java/378.java)  |      Medium      |       |
-|   852   |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Java](./java/852.java)  |    Medium    |      |
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |:------- |
+|   704   |[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./java/704.java)  |      Easy      |       |  |
+|   744   |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./java/744.java)  |      Easy |    |    |
+|   69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./java/69.java)  |      Easy      |      | *Math*   |
+|   378   |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [Java](./java/378.java)  |      Medium      |    |   |
+|   852   |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Java](./java/852.java)  |    Medium    |  |    |
 
 
 #### 11 - Subsets 
