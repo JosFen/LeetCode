@@ -136,6 +136,7 @@
 |   744   |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)| [Java](./java/744.java)  |      Easy |    |    |
 |   69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Java](./java/69.java)  |      Easy      |      | *Math*   |
 |   35   |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./java/35.java)  |      Easy      |      |    |
+|   33  |[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./java/33.java)  |    Medium    | * |    |
 |   74   |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Java](./java/74.java)  |    Medium    |  |    |
 |   153   |[Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [Java](./java/153.java)  |    Medium    |  |    |
 |   378   |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [Java](./java/378.java)  |      Medium      |    |   |
