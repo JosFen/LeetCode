@@ -139,7 +139,7 @@
 |   74   |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Java](./java/74.java)  |    Medium    |  |    |
 |   378   |[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [Java](./java/378.java)  |      Medium      |    |   |
 |   852   |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [Java](./java/852.java)  |    Medium    |  |    |
-
+|   875   |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Java](./java/875.java)  |    Medium    |  |    |
 
 #### 11 - Subsets 
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
