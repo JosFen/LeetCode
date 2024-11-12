@@ -33,7 +33,7 @@ class Solution {
             dfsSB(root.left, sb, paths);
             dfsSB(root.right, sb, paths);
         }
-        sb.setLength(len);
+        sb.setLength(len); // remove current node (and ->) from current recursion, prepare for next recursion
     }
     // private void dfs(TreeNode root,  String path, List<String> paths) {
     //     if (root.left == null && root.right == null) {  // If it's a leaf node
