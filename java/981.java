@@ -1,7 +1,9 @@
 // class T {
 //     public String key;
 //     public int timestap;
-//     public T(String value, int timestamp) {
+//     public String value;
+//     public T(String key, String value, int timestamp) {
+//         this.key = key;
 //         this.value = value;
 //         this.timestamp = timestamp;
 //     }
@@ -21,7 +23,7 @@ class TimeMap {
     
     public String get(String key, int timestamp) {
         List<Pair<Integer, String>> list = map.get(key); 
-        if (list == null) return "";
+        if (list == null || list.get(0).getKey() > timestamp) return "";
 
         int l = 0, r = list.size();
 
@@ -30,7 +32,7 @@ class TimeMap {
             if (list.get(m).getKey() > timestamp) r = m;
             else l = m + 1;
         }
-        return (l == 0) ? "" : list.get(l - 1).getValue();
+        return list.get(l-1).getValue();
     }
 }
 
