@@ -159,7 +159,7 @@
 #### 13 - Backtracking
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
+|   257   |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](./java/257.java)  |      Easy |    |   Backtracking |
 
 #### 14 - Dynamic Programming (DP)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
