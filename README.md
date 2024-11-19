@@ -243,7 +243,7 @@
 #### 27 - Bitwise Manipulation
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
+|   401   |[Binary Watch](https://leetcode.com/problems/binary-watch/)| [Java](./java/401.java)  |  Easy    |      |  *Backtracking, DFS, bit manipulation* |
 
 #### 28 - Design
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
