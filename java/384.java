@@ -5,13 +5,10 @@ import java.util.Random;
 class Solution {
 
     private int[] original;
-    private int[] shuffled;
     private Random rand;
 
     public Solution(int[] nums) {
         this.original = nums;
-        // this.shuffled = Arrays.copyOf(nums, nums.length);
-        this.shuffled = nums.clone();
         rand = new Random();
     }
     
@@ -20,12 +17,14 @@ class Solution {
     }
     
     public int[] shuffle() {
-        int len = this.shuffled.length;
+        int len = this.original.length;
+        // int[] shuffled = Arrays.copyOf(this.original, len);
+        int[] shuffled = this.original.clone();
         for (int i = len - 1; i > 0; i--) {
             int j = rand.nextInt(i+1);
-            swapPos(this.shuffled, i, j);
+            swapPos(shuffled, i, j);
         }
-        return this.shuffled;
+        return shuffled;
     }
     private void swapPos(int[] arr, int i, int j) {
         int tmp = arr[i];
