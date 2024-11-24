@@ -162,7 +162,7 @@
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   257   |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](./java/257.java)  |      Easy |    |  |
-|   1863  |[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)| [Java](./java/1863.java)  |      Easy |    |   *Backtracking, Math, Bit Operation* |
+|   1863  |[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)| [Java](./java/1863.java)  |      Easy |    |   *DFS, Math, Bit Operation* |
 
 #### 14 - Dynamic Programming (DP)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
