@@ -40,6 +40,7 @@
 |   53   |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Java](./java/53.java)  |    Medium      |       |    |
 |   128   |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [Java](./java/128.java)  |      Medium      |          |  *Hash Table* , *Union Find*  |
 |   384   |[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)| [Java](./java/384.java)  |      Medium      |          |  *Algorithm, Math, Array, Randomized*  |
+|   3152  |[Special Array II](https://leetcode.com/problems/special-array-ii/)| [Java](./java/3152.java)  |      Medium      |          |  *Prefix Sum*  |
 |   41   |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Java](./java/41.java)  |      Hard      |          | *Hash Table*     |
 
 
