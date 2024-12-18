@@ -199,7 +199,8 @@
 |   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |      **    |          |
 |   387   |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Java](./java/387.java)  |      Easy      |          |  *Queue* |
 |   933   |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./java/933.java)  |      Easy      |          |  *Queue* |
-|   1700   |[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| [Java](./java/1700.java)  |      Easy      |          |  *Queue* |
+|   1700  |[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| [Java](./java/1700.java)  |      Easy      |          |  *Queue* |
+|   1475  |[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)| [Java](./java/1475.java)  | Easy |   |  *Array, Stack, Monotonic Stack* |
 
 
 #### 19 - Graphs
