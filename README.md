@@ -211,13 +211,14 @@
 #### 20 - Tree Depth First Search (DFS)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   110   |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Java](./java/110.java)  |    Easy   |     |   *Tree , DFS , BFS , Binary Tree*  |
-|   111   |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Java](./java/111.java)  |    Easy   |     |   *Tree , DFS , BFS , Binary Tree*  |
-|   100   |[Same Tree](https://leetcode.com/problems/same-tree/)| [Java](./java/100.java)  |      Easy      |          |   *Tree , DFS , BFS , Binary Tree*  |
-|   112   |[Path Sum](https://leetcode.com/problems/path-sum/)| [Java](./java/112.java)  |      Easy      |          |   *Tree , DFS , BFS , Binary Tree*  |
-|   104   |[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./java/104.java)  |      Easy      |          |   *Tree , DFS , BFS , Binary Tree*  |
-|   543   |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Java](./java/543.java)  |      Easy      |          |   *Tree , DFS , BFS , Binary Tree*  |
-|   226   |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./java/226.java)  |   Easy    |       |   *Tree , DFS , BFS , Binary Tree*  |
+|   110   |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Java](./java/110.java)  |    Easy   |     |    |
+|   111   |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Java](./java/111.java)  |    Easy   |     |    |
+|   100   |[Same Tree](https://leetcode.com/problems/same-tree/)| [Java](./java/100.java)  |      Easy      |          |    |
+|   112   |[Path Sum](https://leetcode.com/problems/path-sum/)| [Java](./java/112.java)  |      Easy      |          |   |
+|   104   |[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Java](./java/104.java)  |      Easy      |          |   |
+|   543   |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)| [Java](./java/543.java)  |      Easy      |          |   |
+|   226   |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./java/226.java)  |   Easy    |       |    |
+|   572   |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)| [Java](./java/572.java)  |   Easy    |       |    |
 
 
 #### 21 - Tree Breath First Search (BFS)
