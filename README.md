@@ -220,7 +220,7 @@
 |   226   |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./java/226.java)  |   Easy    |       |    |
 |   572   |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)| [Java](./java/572.java)  |   Easy    |       |    |
 |   617   |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./java/617.java)  |   Easy    |       |    |
-|   235   |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/| [Java](./java/235.java)  |   Easy    |       |    |
+|   235   |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Java](./java/235.java)  |   Easy    |       |    |
 
 
 #### 21 - Tree Breath First Search (BFS)
