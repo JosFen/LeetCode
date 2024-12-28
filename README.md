@@ -226,6 +226,7 @@
 #### 21 - Tree Breath First Search (BFS)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   102   |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Java](./java/102.java)  |    Medium   |     |  *Binary Tree, Queue*  |
 
 
 #### 22 - Trie 
