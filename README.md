@@ -223,6 +223,7 @@
 |   235   |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Java](./java/235.java)  |   Easy    |       |    |
 |   1448  |[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| [Java](./java/1448.java)  |    Medium   |     |    |
 |   98  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [Java](./java/98.java)  |    Medium   |     |    |
+|   230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./java/230.java)  |    Medium   |     |    |
 
 
 
