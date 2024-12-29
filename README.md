@@ -225,6 +225,7 @@
 |   98  |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [Java](./java/98.java)  |    Medium   |     |    |
 |   230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./java/230.java)  |    Medium   |     |    |
 |   105  |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Java](./java/105.java)  |    Medium   |   *  |  *Hash Table, Divide and Conquer*  |
+|   124  |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Java](./java/124.java)  |    Hard   |   *  |  *DP *  |
 
 
 #### 21 - Tree Breath First Search (BFS)
