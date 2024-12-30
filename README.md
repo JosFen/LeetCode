@@ -238,6 +238,8 @@
 #### 22 - Trie 
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   1065   |[Index Pairs of a String🔒](https://leetcode.com/problems/index-pairs-of-a-string/description/)| [Java](./java/1065.java)  |    Easy   |     |    |
+
 
 
 #### 23 - Hash Maps 
