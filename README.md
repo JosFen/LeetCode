@@ -233,6 +233,7 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   102   |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Java](./java/102.java)  |    Medium   |     |  *Binary Tree, BFS, Queue*  |
 |   199   |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](./java/199.java)  |    Medium   |     |  *Binary Tree, DFS, BFS, Queue*  |
+|   297  |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [Java](./java/297.java)  |    Hard   |   *  |  *DFS, serialization, Design*  |
 
 #### 22 - Trie 
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
