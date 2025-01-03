@@ -240,6 +240,7 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   1065   |[Index Pairs of a String🔒](https://leetcode.com/problems/index-pairs-of-a-string/)| [Java](./java/1065.java)  |    Easy   |     |    |
 |   208   |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Java](./java/208.java)  |    Medium   |     |    |
+|   211   |[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| [Java](./java/211.java)  |    Medium   |  *  |  *DFS, Recursion*  |
 
 
 #### 23 - Hash Maps 
