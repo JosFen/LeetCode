@@ -238,8 +238,8 @@
 #### 22 - Trie 
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   1065   |[Index Pairs of a String🔒](https://leetcode.com/problems/index-pairs-of-a-string/description/)| [Java](./java/1065.java)  |    Easy   |     |    |
-
+|   1065   |[Index Pairs of a String🔒](https://leetcode.com/problems/index-pairs-of-a-string/)| [Java](./java/1065.java)  |    Easy   |     |    |
+|   208   |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Java](./java/208.java)  |    Medium   |     |    |
 
 
 #### 23 - Hash Maps 
