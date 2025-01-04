@@ -174,7 +174,7 @@
 #### 10 - Heap / Priority Queue
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|      |[]()| [Java](./java/.java)  |      Easy      |          |   *Hash Table , Sorting*       |
+|  703    |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](./java/703.java)  |      Easy      |          |   *PriorityQueue, Sorting, Stream*       |
 
 
 #### 11 - Intervals
