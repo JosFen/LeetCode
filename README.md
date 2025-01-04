@@ -56,6 +56,7 @@
 |   680   |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)| [Java](./java/680.java)  |      Easy      |     |     |
 |   26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./java/26.java)  |  Easy  |   |     |
 |   27   |[Remove Element](https://leetcode.com/problems/remove-element/description/)| [Java](./java/27.java)  |  Easy  |    |     |
+|   88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./java/88.java)  |      Easy      |          |   *Array, Two Pointers , Sorting*       |
 |   2970 |[Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/)| [Java](./java/2970.java)  |  Easy  |    * |   |
 |   287   |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [Java](./java/287.java)  |     Medium     |     |     |
 |   15   |[3Sum](https://leetcode.com/problems/3sum/)| [Java](./java/15.java)  |      Medium      |     |     |
@@ -64,6 +65,7 @@
 |   75   |[Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./java/75.java)  |      Medium      |   |       |
 |   11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./java/11.java)  |      Medium      |    |      |
 |   42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Java](./java/42.java)  |      Hard      |    |      |
+
 
 #### 3 - Fast and Slow Pointers
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
@@ -102,37 +104,16 @@
 |   644   |[Maximum Average Subarray II](./java/644.java)| [Java](./java/644.java)  |  Hard      |      ***    | 
 
 
-#### 5 - Merge Intervals
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
 
-
-#### 6 - In-place Reversal of a Linked List
+#### 5 - Linked List
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
 |   206   |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Java](./java/206.java)  |      Easy      |     *Linked-List, Recursion*       |
 |   92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Java](./java/92.java)  |      Medium      |     *Linked-List, Recursion*       |
 
-#### 7 - Two Heaps
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|      |[]()| [Java](./java/.java)  |      Easy      |          |   *Hash Table , Sorting*       |
 
 
-#### 8 - K-way Merge
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Java](./java/88.java)  |      Easy      |          |   *Array, Two Pointers , Sorting*       |
-
-
-#### 9 - Top K Elements
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 10 - (Modified) Binary Search
+#### 6 - (Modified) Binary Search
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |:------- |
 |   704   |[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./java/704.java)  |      Easy      |       |  |
@@ -151,64 +132,8 @@
 |   2981 |[Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i)| [Java](./java/2981.java)  |    Medium    | * |  *Counting, Sliding window*  |
 
 
-#### 11 - Subsets 
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
-
-#### 12 - Greedy Techniques 
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 13 - Backtracking
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   257   |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](./java/257.java)  |      Easy |    |  |
-|   1863  |[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)| [Java](./java/1863.java)  |      Easy |    |   *DFS, Math, Bit Operation* |
-
-#### 14 - Dynamic Programming (DP)
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 15 - Cyclic Sort
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 16 - Topological Sort
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 17 - Matrices
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 18 - Stack & Queue
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./java/20.java)  |      Easy      |          |          |
-|   155   |[Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./java/155.java)  |      Medium      |          |           |
-|   150   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./java/150.java)  |      Medium      |          |          |
-|   22   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](./java/22.java)  |      Medium      |      *    | *Backtracking* |
-|   739   |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./java/739.java)  |      Medium      |          |
-|   853   |[Car Fleet](https://leetcode.com/problems/car-fleet/)| [Java](./java/853.java)  |      Medium      |     Array     |          |
-|   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |      **    |          |
-|   387   |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Java](./java/387.java)  |      Easy      |          |  *Queue* |
-|   933   |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./java/933.java)  |      Easy      |          |  *Queue* |
-|   1700  |[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| [Java](./java/1700.java)  |      Easy      |          |  *Queue* |
-|   1475  |[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)| [Java](./java/1475.java)  | Easy |   |  *Array, Stack, Monotonic Stack* |
-
-
-#### 19 - Graphs
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
-
-#### 20 - Tree Depth First Search (DFS)
+#### 7 - Trees : Depth First Search (DFS)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   110   |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Java](./java/110.java)  |    Easy   |     |    |
@@ -228,14 +153,15 @@
 |   124  |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Java](./java/124.java)  |    Hard   |   *  |  *DP*  |
 
 
-#### 21 - Tree Breath First Search (BFS)
+#### 8 - Trees : Breath First Search (BFS)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   102   |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Java](./java/102.java)  |    Medium   |     |  *Binary Tree, BFS, Queue*  |
 |   199   |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](./java/199.java)  |    Medium   |     |  *Binary Tree, DFS, BFS, Queue*  |
 |   297  |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [Java](./java/297.java)  |    Hard   |   *  |  *DFS, serialization, Design*  |
 
-#### 22 - Trie 
+
+#### 9 - Trie 
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   1065   |[Index Pairs of a String🔒](https://leetcode.com/problems/index-pairs-of-a-string/)| [Java](./java/1065.java)  |    Easy   |     |    |
@@ -244,39 +170,94 @@
 |   212   |[Word Search II](https://leetcode.com/problems/word-search-ii/)| [Java](./java/212.java)  |    Hard   |  *  |  *DFS, Backtracking, Matrix*  |
 
 
-#### 23 - Hash Maps 
-|**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+
+#### 10 - Heap / Priority Queue
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|      |[]()| [Java](./java/.java)  |      Easy      |          |   *Hash Table , Sorting*       |
+
+
+#### 11 - Intervals
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
+|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+
+
+
+#### 12 - Greedy 
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 24 - Knowing What to Track
-|**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+#### 13 - Backtracking
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   257   |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](./java/257.java)  |      Easy |    |  |
+|   1863  |[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)| [Java](./java/1863.java)  |      Easy |    |   *DFS, Math, Bit Operation* |
+
+
+#### 14 - Graphs
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 25 - Union Find
-|**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+
+#### 15 - Dynamic Programming (DP)
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 26 - Custom Data Structures
-|**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
-
-#### 27 - Bitwise Manipulation
+#### 16 - Bitwise Manipulation
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   401   |[Binary Watch](https://leetcode.com/problems/binary-watch/)| [Java](./java/401.java)  |  Easy    |      |  *Backtracking, DFS, bit manipulation* |
 
-#### 28 - Design
+
+
+#### 17 - Math, Geometry, Matrix
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+
+
+
+#### 18 - Union Find
 |**No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 
 
-#### 29 - Sorting
+
+#### 19 - Sorting
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   169   |[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./java/169.java)  |      Easy      |          |   *Sorting, Boyer–Moore majority vote algorithm*       |
-|   1636  |[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)| [Java](./java/1636.java) |      Easy      |    *    |   *Sorting, Heap Sort, Aggregate Operations*       |
+|   169  |[Majority Element](https://leetcode.com/problems/majority-element/)| [Java](./java/169.java)  |      Easy      |          |   *Sorting, Boyer–Moore majority vote algorithm*       |
+|   1636 |[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)| [Java](./java/1636.java) |      Easy      |    *    |   *Sorting, Heap Sort, Aggregate Operations*       |
 |   912  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)| [Java](./java/912.java) |      Medium      |    **    |   *Sorting, Heap Sort, Merge Sort, Quick Sort, Bucket Sort, Insertion Sort*       |
+
+
+#### 20 - Cyclic Sort
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+
+
+#### 21 - Topological Sort
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+
+
+#### 22 - Stack & Queue
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|   20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./java/20.java)  |      Easy      |          |          |
+|   155   |[Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./java/155.java)  |      Medium      |          |           |
+|   150   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./java/150.java)  |      Medium      |          |          |
+|   22   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](./java/22.java)  |      Medium      |      *    | *Backtracking* |
+|   739   |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)| [Java](./java/739.java)  |      Medium      |          |
+|   853   |[Car Fleet](https://leetcode.com/problems/car-fleet/)| [Java](./java/853.java)  |      Medium      |     Array     |          |
+|   84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Java](./java/84.java)  |      Hard      |      **    |          |
+|   387   |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)| [Java](./java/387.java)  |      Easy      |          |  *Queue* |
+|   933   |[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [Java](./java/933.java)  |      Easy      |          |  *Queue* |
+|   1700  |[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)| [Java](./java/1700.java)  |      Easy      |          |  *Queue* |
+|   1475  |[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)| [Java](./java/1475.java)  | Easy |   |  *Array, Stack, Monotonic Stack* |
+
+
