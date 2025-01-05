@@ -176,7 +176,7 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |  703    |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Java](./java/703.java)  |  Easy  |   |   *PriorityQueue, Sorting, Stream* |
 |  1046  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](./java/1046.java)  |  Easy  |   |   *PriorityQueue, maxHeap*       |
-|  973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java](./java/1046.java)  |  Medium  |   |   *Quick Select, Sorting, Array* |
+|  973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java](./java/1046.java)  |  Medium  | *  |   *Quick Select, Sorting, Array* |
 
 
 #### 11 - Intervals
