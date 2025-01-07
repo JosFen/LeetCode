@@ -178,6 +178,8 @@
 |  1046  |[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [Java](./java/1046.java)  |  Easy  |   |   *PriorityQueue, maxHeap*       |
 |  973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java](./java/973.java)  |  Medium  | *  |   *Quick Select, Sorting, Array* |
 |  215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Java](./java/215.java)  |  Medium  |   |   *Quick Select, Sorting, Array* |
+|  621  |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Java](./java/621.java)  |  Medium  |  ** |   *Counting, Greedy, Math* |
+
 
 
 #### 11 - Intervals
