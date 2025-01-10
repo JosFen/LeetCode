@@ -179,7 +179,7 @@
 |  973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| [Java](./java/973.java)  |  Medium  | *  |   *Quick Select, Sorting, Array* |
 |  215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [Java](./java/215.java)  |  Medium  |   |   *Quick Select, Sorting, Array* |
 |  621  |[Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Java](./java/621.java)  |  Medium  |  ** |   *Counting, Greedy, Math* |
-
+|  355  |[Design Twitter](https://leetcode.com/problems/design-twitter/)| [Java](./java/355.java)  |  Medium  |  * |   *Counting, Greedy, Math* |
 
 
 #### 11 - Intervals
