@@ -1,3 +1,22 @@
+class Solution {
+    public boolean isValid(String s) {
+       if (s.length() % 2 == 1) return false;
+                
+        String lBrackets = "([{";
+        String rBrackets = ")]}";
+        
+        char[] stack = new char[s.length()];
+        int p = -1;
+        
+        for (char c : s.toCharArray()) {
+            if (lBrackets.indexOf(c) > -1) stack[++p] = c;
+            else if (p == -1 || lBrackets.indexOf(stack[p]) != rBrackets.indexOf(c)) return false;
+            else p--;
+        }
+        return p == -1;
+    }
+}
+
 // Use static array:
 class Solution {
     public boolean isValid(String s) {
