@@ -183,9 +183,9 @@
 
 
 #### 11 - Intervals
-| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** |
-| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- |
-|      |[ ]( )| [Java](./java/ .java)  |      Easy      |          |
+| **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
+| :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
+|  703    |[Meeting Rooms](https://neetcode.io/problems/meeting-schedule?list=blind75)| [Java](./java/252.java)  |  Easy  |   |   *Sorting* |
 
 
 
