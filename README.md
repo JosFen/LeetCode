@@ -204,7 +204,7 @@
 #### 14 - Graphs
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-
+|   200   |[Number of Islands](https://leetcode.com/problems/number-of-islands)| [Java](./java/200.java)  |    Medium   |     | DFS, BFS, Union Find |
 
 
 #### 15 - Dynamic Programming (DP)
