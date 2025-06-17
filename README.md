@@ -206,6 +206,7 @@
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |   200   |[Number of Islands](https://leetcode.com/problems/number-of-islands)| [Java](./java/200.java)  |    Medium   |     | DFS, BFS, Union Find, Matrix |
 |   695   |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Java](./java/695.java)  |    Medium   |     | DFS, BFS, Union Find, Matrix |
+|   133   |[Clone Graph](https://leetcode.com/problems/clone-graph/)| [Java](./java/133.java)  |    Medium   |     | DFS, BFS, Hash Table |
 
 
 #### 15 - Dynamic Programming (DP)
