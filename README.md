@@ -204,7 +204,8 @@
 #### 14 - Graphs
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|   200   |[Number of Islands](https://leetcode.com/problems/number-of-islands)| [Java](./java/200.java)  |    Medium   |     | DFS, BFS, Union Find |
+|   200   |[Number of Islands](https://leetcode.com/problems/number-of-islands)| [Java](./java/200.java)  |    Medium   |     | DFS, BFS, Union Find, Matrix |
+|   695   |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Java](./java/695.java)  |    Medium   |     | DFS, BFS, Union Find, Matrix |
 
 
 #### 15 - Dynamic Programming (DP)
