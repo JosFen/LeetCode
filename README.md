@@ -208,6 +208,7 @@
 |   695   |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Java](./java/695.java)  |    Medium   |     | DFS, BFS, Union Find, Matrix |
 |   133   |[Clone Graph](https://leetcode.com/problems/clone-graph/)| [Java](./java/133.java)  |    Medium   |     | DFS, BFS, Hash Table |
 |   286   |[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)| [Java](./java/286.java)  |    Medium   |     | BFS |
+|   994   |[Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)| [Java](./java/994.java)  |    Medium   |     | BFS, Matrix |
 
 #### 15 - Dynamic Programming (DP)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
