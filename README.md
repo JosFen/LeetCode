@@ -214,8 +214,8 @@
 #### 15 - Dynamic Programming (DP)
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
-|  70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./java/70.java)  |  Easy |     | Fibonacci Series, Math, cache, optimization |
-
+|  70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./java/70.java)  |  Easy |     | Fibonacci Series, Math, cache, optimization, 1-D DP |
+|  746   |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)| [Java](./java/746.java)  |  Easy |     | cache, optimization, 1-D DP |
 
 
 #### 16 - Bitwise Manipulation
