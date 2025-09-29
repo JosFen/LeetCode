@@ -186,7 +186,7 @@
 | **No.** | **Title**                                            |        **Solution**        | **Difficulty** | **Note** | **Related** |
 | :-----: | :--------------------------------------------------- | :------------------------: | :------------: | :------- | :------- |
 |  252    |[Meeting Rooms](https://neetcode.io/problems/meeting-schedule?list=blind75)| [Java](./java/252.java)  |  Easy  |   |   *Sorting* |
-
+|  57    |[Insert Interval](https://leetcode.com/problems/insert-interval/)| [Java](./java/57.java)  |  Medium  |   |   *Sorting, Array* |
 
 
 #### 12 - Greedy 
