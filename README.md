@@ -188,6 +188,7 @@
 |  252    |[Meeting Rooms](https://neetcode.io/problems/meeting-schedule?list=blind75)| [Java](./java/252.java)  |  Easy  |   |   *Sorting* |
 |  56    |[Merge Interval](https://leetcode.com/problems/merge-intervals/)| [Java](./java/56.java)  |  Medium  |   |   *Sorting, Array* |
 |  57    |[Insert Interval](https://leetcode.com/problems/insert-interval/)| [Java](./java/57.java)  |  Medium  |   |   *Sorting, Array* |
+|  435   |[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Java](./java/435.java)  |  Medium  |   |   *Greedy, Sorting, Array* |
 
 
 #### 12 - Greedy 
